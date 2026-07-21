@@ -8,7 +8,7 @@ Los artefactos de esta sección no se completarán con imaginación ni con infor
 
 ### User Task Matrix
 
-**Pendiente de entrevistas.** La matriz describirá tareas existentes sin asumir EcoMind. Los verbos candidatos —planificar, elegir, ejecutar, evidenciar, revisar, interpretar y reportar— deberán confirmarse mediante observación o relato reciente.
+**Pendiente de entrevistas.** La matriz describirá tareas existentes sin asumir EcoMind. Los verbos candidatos (planificar, elegir, ejecutar, evidenciar, revisar, interpretar y reportar) deberán confirmarse mediante observación o relato reciente.
 
 | Tarea actual | Díada familiar | Facilitador | Responsable de programa | Evidencia de entrevista |
 |---|---|---|---|---|

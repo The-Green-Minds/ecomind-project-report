@@ -1,4 +1,6 @@
-from: markdown
+from: markdown-implicit_figures
+to: latex
+standalone: true
 file-scope: true
 input-files:
   - report/00-front-matter/README.md
@@ -10,6 +12,9 @@ input-files:
   - report/20-chapter-2/01-competitors.md
   - report/20-chapter-2/02-interviews.md
   - report/20-chapter-2/03-needfinding.md
+  - report/20-chapter-2/04-user-stories-and-backlog.md
+  - report/20-chapter-2/05-strategic-domain-design.md
+  - report/20-chapter-2/06-software-solution-design.md
   - report/30-chapter-3/README.md
   - report/40-chapter-4/README.md
   - report/90-closing/README.md
@@ -18,10 +23,29 @@ resource-path:
   - .
   - assets
   - diagrams/generated
-toc: true
+filters:
+  - scripts/report-layout.lua
+toc: false
 toc-depth: 4
 number-sections: true
 citeproc: true
 bibliography: references/bibliography.bib
-pdf-engine: lualatex
-output-file: build/ecomind-project-report.pdf
+csl: https://raw.githubusercontent.com/citation-style-language/styles/3ad2f7ddd9d13da9c7bc2dd67afd3107897ad3e1/apa.csl
+metadata:
+  reference-section-title: Referencias
+  lang: es-PE
+include-in-header:
+  - config/apa-header.tex
+pdf-engine: /Users/mauriciopajes/.codex/plugins/cache/openai-bundled/latex/0.2.4/bin/tectonic
+variables:
+  documentclass: article
+  papersize: a4
+  fontsize: 11pt
+  geometry: margin=2.54cm
+  mainfont: Arial
+  linestretch: 1.5
+  colorlinks: true
+  linkcolor: black
+  citecolor: black
+  urlcolor: black
+  lang: es-PE
