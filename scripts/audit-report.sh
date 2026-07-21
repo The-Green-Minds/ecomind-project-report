@@ -5,6 +5,7 @@ root_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 audit_script="/Users/mauriciopajes/.codex/skills/upc-cc238-final-project/scripts/audit_report.py"
 
 python3 "$audit_script" "$root_dir" --stage AV1
+python3 "$root_dir/scripts/audit_markdown_tables.py" "$root_dir"
 
 test -f "$root_dir/references/compliance-register.md"
 test -f "$root_dir/references/traceability-matrix.md"

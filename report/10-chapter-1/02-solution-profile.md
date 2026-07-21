@@ -130,7 +130,7 @@ Las assumptions se priorizan por riesgo y desconocimiento. `Alta` significa que,
 El review kit UPC propone la estructura: “Creemos que [hacer esto] para [estas personas] logrará [este outcome]. Sabremos que es cierto cuando observemos [feedback o cambio medible]”. Cada hipótesis siguiente conserva segmento, cambio, outcome y señal. Los umbrales son criterios provisionales de decisión, no resultados obtenidos.
 
 | ID | Hypothesis Statement en el formato UPC | Decisión si falla |
-|---|---|---|---|
+|---|---|---|
 | H-F01 | **Creemos que** ofrecer un recorrido con responsabilidades diferenciadas para díadas adulto-escolar permitirá completar una acción con evidencia comprensible. **Sabremos que es cierto cuando** al menos 4 de 5 díadas terminen `perfil → reto → evidencia → progreso` en 10 minutos o menos, sin ayuda crítica, y expliquen quién confirma la evidencia. | Simplificar responsabilidades y revisar si adulto y escolar deben operar en momentos distintos. |
 | H-E01 | **Creemos que** mostrar fuente, calidad y explicación a familias y facilitadores permitirá interpretar correctamente la fuerza de una evidencia. **Sabremos que es cierto cuando** al menos 80 % de las respuestas clasifique correctamente cinco ejemplos y nadie presente un dato simulado como medido. | Rediseñar vocabulario, jerarquía visual y progreso antes de añadir IA o IoT. |
 | H-F02 | **Creemos que** ofrecer plantillas de campaña a facilitadores reducirá el esfuerzo de asignación y revisión. **Sabremos que es cierto cuando** al menos 2 de 3 facilitadores creen, asignen y revisen una campaña en 12 minutos o menos y expliquen correctamente cada estado. | Reducir configuración o revisar si la organización necesita otro rol operativo. |
