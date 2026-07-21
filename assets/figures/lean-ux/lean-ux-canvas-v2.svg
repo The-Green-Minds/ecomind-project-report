@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1050" viewBox="0 0 1600 1050" role="img" aria-labelledby="title desc">
+  <title id="title">EcoMind Lean UX Canvas V2</title>
+  <desc id="desc">Lean UX Canvas V2 with eight numbered boxes for business problem, business outcomes, users, user outcomes and benefits, solutions, hypotheses, riskiest learning, and smallest experiment.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f4f7f4; }
+      .header { fill: #174f3b; }
+      .box { fill: #ffffff; stroke: #9bb8ab; stroke-width: 3; rx: 14; }
+      .boxtitle { font: 700 25px Arial, sans-serif; fill: #174f3b; }
+      .body { font: 21px Arial, sans-serif; fill: #24332d; }
+      .meta { font: 19px Arial, sans-serif; fill: #ffffff; }
+      .number { font: 700 32px Arial, sans-serif; fill: #82b99f; }
+      .small { font: 18px Arial, sans-serif; fill: #40564c; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1600" height="1050"/>
+  <rect class="header" x="35" y="25" width="1530" height="90" rx="16"/>
+  <text x="70" y="70" class="meta" style="font-weight:700;font-size:30px">LEAN UX CANVAS (V2) - EcoMind</text>
+  <text x="990" y="61" class="meta">Date: 2026-07-20</text>
+  <text x="990" y="91" class="meta">Iteration: 1 - Problem/Solution Fit</text>
+
+  <rect class="box" x="35" y="140" width="420" height="260"/>
+  <text x="60" y="180" class="boxtitle">Business Problem</text>
+  <text x="60" y="220" class="body">
+    <tspan x="60" dy="0">Environmental programs may not</tspan>
+    <tspan x="60" dy="31">connect learning, everyday action,</tspan>
+    <tspan x="60" dy="31">evidence, observation and reporting</tspan>
+    <tspan x="60" dy="31">through a consistent and traceable</tspan>
+    <tspan x="60" dy="31">process.</tspan>
+  </text>
+  <text x="408" y="375" class="number">1</text>
+
+  <rect class="box" x="1145" y="140" width="420" height="260"/>
+  <text x="1170" y="180" class="boxtitle">Business Outcomes</text>
+  <text x="1170" y="220" class="body">
+    <tspan x="1170" dy="0">Shorter evidence consolidation time;</tspan>
+    <tspan x="1170" dy="31">campaigns with reviewed evidence;</tspan>
+    <tspan x="1170" dy="31">reports used in a decision; accepted</tspan>
+    <tspan x="1170" dy="31">pilots and, only after operation,</tspan>
+    <tspan x="1170" dy="31">renewal.</tspan>
+  </text>
+  <text x="1518" y="375" class="number">2</text>
+
+  <rect class="box" x="35" y="420" width="420" height="250"/>
+  <text x="60" y="460" class="boxtitle">Users and Customers</text>
+  <text x="60" y="500" class="body">
+    <tspan x="60" dy="0">Initial focus: facilitators and</tspan>
+    <tspan x="60" dy="31">program managers in organizations</tspan>
+    <tspan x="60" dy="31">that already run environmental</tspan>
+    <tspan x="60" dy="31">programs for primary students.</tspan>
+    <tspan x="60" dy="31">Participants: family-school dyads.</tspan>
+  </text>
+  <text x="408" y="645" class="number">3</text>
+
+  <rect class="box" x="1145" y="420" width="420" height="300"/>
+  <text x="1170" y="460" class="boxtitle">User Outcomes &amp; Benefits</text>
+  <text x="1170" y="500" class="body">
+    <tspan x="1170" dy="0">Families understand the next action</tspan>
+    <tspan x="1170" dy="31">and what their evidence means.</tspan>
+    <tspan x="1170" dy="31">Facilitators review with consistent</tspan>
+    <tspan x="1170" dy="31">criteria and less administrative work.</tspan>
+    <tspan x="1170" dy="31">Managers distinguish participation,</tspan>
+    <tspan x="1170" dy="31">estimation and observation.</tspan>
+  </text>
+  <text x="1518" y="695" class="number">4</text>
+
+  <rect class="box" x="475" y="140" width="650" height="440"/>
+  <text x="500" y="180" class="boxtitle">Solutions</text>
+  <text x="500" y="225" class="body">
+    <tspan x="500" dy="0">• Family mobile flow for challenges and evidence.</tspan>
+    <tspan x="500" dy="39">• Campaign and cohort management for facilitators.</tspan>
+    <tspan x="500" dy="39">• Persistent source and evidence-quality labels.</tspan>
+    <tspan x="500" dy="39">• Offline capture and idempotent synchronization.</tspan>
+    <tspan x="500" dy="39">• Explainable next-action recommendation.</tspan>
+    <tspan x="500" dy="39">• Contract-compatible adapters for external data</tspan>
+    <tspan x="526" dy="31">and future IoT devices.</tspan>
+  </text>
+  <text x="1074" y="550" class="number">5</text>
+
+  <rect class="box" x="35" y="690" width="420" height="325"/>
+  <text x="60" y="730" class="boxtitle">Hypothesis</text>
+  <text x="60" y="772" class="small">
+    <tspan x="60" dy="0">We believe review-ready program</tspan>
+    <tspan x="60" dy="27">reports will increase if facilitators</tspan>
+    <tspan x="60" dy="27">attain consistent evidence review</tspan>
+    <tspan x="60" dy="27">with provenance labels.</tspan>
+    <tspan x="60" dy="38">We will know this is true when at</tspan>
+    <tspan x="60" dy="27">least 2 of 3 facilitators complete the</tspan>
+    <tspan x="60" dy="27">review flow and explain each status.</tspan>
+  </text>
+  <text x="408" y="990" class="number">6</text>
+
+  <rect class="box" x="475" y="600" width="650" height="415"/>
+  <text x="500" y="640" class="boxtitle">What is the most important thing to learn first?</text>
+  <text x="500" y="688" class="body">
+    <tspan x="500" dy="0">Whether organizations experience a recurring and</tspan>
+    <tspan x="500" dy="31">costly problem when consolidating participation,</tspan>
+    <tspan x="500" dy="31">evidence and reports - and whether that problem is</tspan>
+    <tspan x="500" dy="31">important enough to justify a controlled pilot.</tspan>
+  </text>
+  <text x="500" y="850" class="small" style="font-weight:700">Riskiest assumptions: A-B01, A-B02, A-U02 and A-E01.</text>
+  <text x="1074" y="990" class="number">7</text>
+
+  <rect class="box" x="1145" y="740" width="420" height="275"/>
+  <text x="1170" y="780" class="boxtitle">Least Work to Learn</text>
+  <text x="1170" y="822" class="small">
+    <tspan x="1170" dy="0">• 3 buyer interviews.</tspan>
+    <tspan x="1170" dy="30">• 3 facilitator process walkthroughs.</tspan>
+    <tspan x="1170" dy="30">• Review of current evidence/report</tspan>
+    <tspan x="1190" dy="27">artifacts.</tspan>
+    <tspan x="1170" dy="30">• 5 family-dyad concept tests.</tspan>
+  </text>
+  <text x="1518" y="990" class="number">8</text>
+</svg>

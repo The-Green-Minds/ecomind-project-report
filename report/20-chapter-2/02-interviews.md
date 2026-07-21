@@ -18,7 +18,7 @@ Las entrevistas de esta sección todavía no se han ejecutado. El objetivo de es
 
 | Segmento | Sesiones objetivo | Participantes | Criterio principal |
 |---|---:|---|---|
-| Díada familiar | 5 | Escolar de 9–12 años y tutor. | Alguna experiencia con actividad ambiental escolar o familiar; diversidad de conectividad y dispositivo. |
+| Díada familiar | 5 | Escolar de 9-12 años y tutor. | Alguna experiencia con actividad ambiental escolar o familiar; diversidad de conectividad y dispositivo. |
 | Facilitadores | 3 | Docente, coordinador ambiental o promotor. | Haber planificado, acompañado o revisado una actividad ambiental durante el último año. |
 | Responsables de programa | 3 | Director, coordinador, responsable municipal/ONG/CSR. | Participar en decisión, presupuesto, reporte o renovación. |
 
@@ -34,6 +34,28 @@ La muestra es cualitativa. No se usarán porcentajes de once entrevistas como si
 - detener la sesión si existe incomodidad y no vincular premios al consentimiento;
 - almacenar el video en el medio privado aprobado por UPC y publicar solo el enlace autorizado;
 - confirmar con el docente el formato de consentimiento antes del reclutamiento.
+
+#### Ficha de caracterización previa
+
+El enunciado solicita datos demográficos y subjetivos para contextualizar los hallazgos. La ficha siguiente se completa antes o al inicio de la sesión. Solo se publicarán datos autorizados y necesarios; los nombres completos, contactos y videos se conservarán en el medio privado aprobado por UPC. En menores no se solicitará estado civil, ocupación ni otros campos que no correspondan a su etapa de vida.
+
+| Campo requerido | Díada familiar | Facilitador | Responsable de programa | Regla de registro |
+|---|---|---|---|---|
+| Código, nombres y apellidos | Código de escolar y tutor; nombres completos solo en registro privado. | Código y nombres completos en registro privado. | Código y nombres completos en registro privado. | El informe público usa seudónimo o código salvo autorización expresa. |
+| Género | Autodescripción opcional de adulto y escolar. | Autodescripción opcional. | Autodescripción opcional. | Incluir “prefiere no responder”; no inferir. |
+| Edad | Edad o rango de ambos participantes. | Edad o rango. | Edad o rango. | Publicar rangos cuando reduzca riesgo de identificación. |
+| Distrito y modalidad | Distrito y contexto presencial/remoto. | Distrito de trabajo y modalidad. | Distrito/sede y modalidad. | No registrar dirección exacta. |
+| Estado civil y composición familiar | Estado civil del tutor, opcional; composición del hogar relevante para la rutina. | Opcional si explica disponibilidad. | Opcional si explica disponibilidad. | No aplica al escolar; omitir si no aporta al objetivo. |
+| Ocupación, rol y experiencia | Ocupación del tutor; grado del escolar y experiencia en actividades ambientales. | Rol, área, años de experiencia y población atendida. | Rol, responsabilidad de decisión y años de experiencia. | No solicitar ingreso personal. |
+| Personalidad y habilidades | Autodescripción, preferencias para aprender, usar tecnología y realizar actividades. | Autodescripción y habilidades de facilitación/digitales. | Autodescripción y habilidades de gestión/datos. | Registrar palabras del participante, no diagnósticos. |
+| Afinidad de marcas o servicios e influencias | Apps, programas, contenidos o personas que influyen en elecciones ambientales y digitales. | Plataformas, programas, comunidades y referentes. | Proveedores, redes, normas y referentes de decisión. | Preguntar por uso real; no sugerir marcas. |
+| Dispositivos y software | Teléfono compartido/propio, sistema operativo, navegador y restricciones. | Dispositivos, sistema operativo y herramientas de trabajo. | Dispositivos, herramientas de reporte y sistemas institucionales. | No registrar identificadores del dispositivo. |
+| Canales digitales | Mensajería, correo, redes y canales escolares usados. | Canales con participantes y organización. | Canales de coordinación, compra y reporte. | Registrar frecuencia y propósito. |
+| Goals y frustrations | Objetivos y frustraciones de una actividad ambiental reciente. | Objetivos y frustraciones al facilitar/revisar. | Objetivos y frustraciones al decidir/reportar. | Deben vincularse a una experiencia concreta. |
+| Biografía breve | Rutina del hogar y contexto de participación. | Trayectoria y contexto de facilitación. | Trayectoria y contexto del programa. | Dos o tres frases verificadas por el participante. |
+| Accesibilidad y conectividad | Necesidades de acceso, conectividad y dispositivo compartido. | Necesidades de acceso y condiciones de campo. | Restricciones institucionales y de seguridad. | Campo adicional necesario para decisiones de diseño. |
+
+Antes del guion principal se preguntará de forma abierta: “Para comprender el contexto de esta experiencia, ¿cómo describiría brevemente su rutina, su relación con la tecnología y las personas o servicios que influyen en sus decisiones?”. Las respuestas completan personalidad, habilidades, afinidades, influencias y biografía sin convertir la entrevista en un cuestionario de marketing.
 
 #### Guion común de apertura
 
@@ -104,19 +126,21 @@ Después de terminar el relato del proceso actual se podrá mostrar un concepto 
 
 **Video consolidado de Needfinding:** por registrar en el repositorio privado aprobado por UPC.
 
-| ID | Segmento | Fecha | Distrito/modalidad | Duración | Consentimiento/asentimiento | Video y rango | Resumen descriptivo | Estado |
-|---|---|---|---|---:|---|---|---|---|
-| FAM-01 | Díada familiar | Pendiente | Pendiente | — | Pendiente | Pendiente | Pendiente | No realizada |
-| FAM-02 | Díada familiar | Pendiente | Pendiente | — | Pendiente | Pendiente | Pendiente | No realizada |
-| FAM-03 | Díada familiar | Pendiente | Pendiente | — | Pendiente | Pendiente | Pendiente | No realizada |
-| FAM-04 | Díada familiar | Pendiente | Pendiente | — | Pendiente | Pendiente | Pendiente | No realizada |
-| FAM-05 | Díada familiar | Pendiente | Pendiente | — | Pendiente | Pendiente | Pendiente | No realizada |
-| FAC-01 | Facilitador | Pendiente | Pendiente | — | Pendiente | Pendiente | Pendiente | No realizada |
-| FAC-02 | Facilitador | Pendiente | Pendiente | — | Pendiente | Pendiente | Pendiente | No realizada |
-| FAC-03 | Facilitador | Pendiente | Pendiente | — | Pendiente | Pendiente | Pendiente | No realizada |
-| BUY-01 | Responsable de programa | Pendiente | Pendiente | — | Pendiente | Pendiente | Pendiente | No realizada |
-| BUY-02 | Responsable de programa | Pendiente | Pendiente | — | Pendiente | Pendiente | Pendiente | No realizada |
-| BUY-03 | Responsable de programa | Pendiente | Pendiente | — | Pendiente | Pendiente | Pendiente | No realizada |
+**Agenda y caracterización básica**
+
+| ID | Segmento | Edad / rango | Fecha | Distrito / modalidad | Duración |
+|---|---|---|---|---|---:|
+| FAM-01 a FAM-05 | Díada familiar | Pendiente | Pendiente | Pendiente | - |
+| FAC-01 a FAC-03 | Facilitador | Pendiente | Pendiente | Pendiente | - |
+| BUY-01 a BUY-03 | Responsable | Pendiente | Pendiente | Pendiente | - |
+
+**Control de evidencia por sesión**
+
+| ID | Consentimiento o asentimiento | Video y rango | Ficha | Estado |
+|---|---|---|---|---|
+| FAM-01 a FAM-05 | Pendiente por sesión | Pendiente por sesión | Pendiente | No realizadas |
+| FAC-01 a FAC-03 | Pendiente por sesión | Pendiente por sesión | Pendiente | No realizadas |
+| BUY-01 a BUY-03 | Pendiente por sesión | Pendiente por sesión | Pendiente | No realizadas |
 
 #### Evaluación de reutilización de entrevistas del antecedente
 

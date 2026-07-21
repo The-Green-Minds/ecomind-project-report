@@ -10,13 +10,23 @@ El análisis considera competidores directos e indirectos que cubren partes dife
 
 **Aula Ambiental y Eco Aventuras.** Alternativas públicas peruanas promovidas por el Ministerio del Ambiente. Aula Ambiental ofrece más de cien recursos entre publicaciones, videos, infografías, cuentos y juegos; Eco Aventuras 2026 organiza misiones, retos y actividades ambientales para niños y jóvenes [@minamEscolares2025; @minamEcoAventuras2026]. Constituyen una alternativa local gratuita de contenido y actividades, no una prueba de que el problema de seguimiento organizacional esté resuelto.
 
+\newpage
+
+**Figura 3**
+
+*Competitive Landscape de EcoMind y las alternativas analizadas.*
+
+![Competitive Landscape de EcoMind](../../assets/figures/competition/competitive-landscape.png)
+
+*Nota.* Elaboración propia a partir de capacidades declaradas en las fuentes primarias revisadas [@joulebugHelp2026; @joulebugChallenges2026; @globeObserver2026; @minamEscolares2025; @minamEcoAventuras2026]. La posición es una inferencia cualitativa del equipo, no un puntaje medido ni una evaluación de eficacia. Fuente editable: [`competitive-landscape.svg`](../../assets/figures/competition/competitive-landscape.svg).
+
 ### Análisis competitivo
 
-| Capacidad observable | JouleBug | GLOBE Observer | Aula Ambiental / Eco Aventuras | EcoMind — propuesta por validar |
+| Capacidad observable | JouleBug | GLOBE Observer | Aula Ambiental / Eco Aventuras | EcoMind - propuesta por validar |
 |---|---|---|---|---|
 | Retos o acciones ambientales | Sí; acciones y desafíos configurables. | Sí; protocolos y desafíos de observación. | Sí; misiones, juegos y actividades. | Sí; retos y campañas en seis dominios. |
 | Participación de organizaciones o equipos | Sí; owners, admins, communities y participants. | Sí; escuelas, organizaciones y equipos. | Sí como programa público; administración SaaS no identificada. | Sí; tenancy, programas, cohortes y roles. |
-| Enfoque escolar/familiar | No es el único foco identificado. | Sí; estudiantes, docentes y familias. | Sí; niños, jóvenes, docentes y familias. | Sí; escolar de 9–12 años con tutor y facilitador. |
+| Enfoque escolar/familiar | No es el único foco identificado. | Sí; estudiantes, docentes y familias. | Sí; niños, jóvenes, docentes y familias. | Sí; escolar de 9-12 años con tutor y facilitador. |
 | Observación ambiental guiada | Registro de acciones; rigor de observación no evaluado en la fuente revisada. | Sí; protocolos y datos de ciencia ciudadana. | Actividades; contrato de observación longitudinal no identificado. | Sí; evidencia separada de observaciones y evaluaciones de impacto. |
 | Procedencia y calidad visibles para datos manuales, simulados, IoT e IA | No identificada en el alcance revisado. | Procedencia científica por protocolo; no cubre el contrato completo propuesto. | No identificada. | Diferenciador central por validar. |
 | Administración de campañas e informes | Sí. | Seguimiento de equipos y datos; alcance comercial no identificado. | Gestión pública de actividades; panel SaaS no identificado. | Sí; campañas, revisión, analítica y exportaciones. |
@@ -25,15 +35,18 @@ El análisis considera competidores directos e indirectos que cubren partes dife
 
 La comparación no demuestra una ventaja competitiva real. Identifica una posición que debe probarse: integrar la gestión organizacional de JouleBug, el cuidado metodológico de observación de GLOBE y la pertinencia peruana de las iniciativas de Minam, sin copiar sus contenidos ni afirmar equivalencia científica.
 
-#### SWOT comparativo de EcoMind
+#### SWOT por competidor y paisaje competitivo
 
-| Fortalezas propuestas | Debilidades actuales |
-|---|---|
-| Solution Profile multidominio; separación entre acción, evidencia, observación e impacto; diseño offline; continuidad móvil–IoT; enfoque B2B2C y privacidad infantil. | Producto no implementado; segmentos y willingness to pay sin validar; alto alcance multiplataforma; ausencia de dataset y hardware calibrado; marca sin tracción demostrada. |
+El SWOT separa capacidades internas observables de condiciones externas. Las debilidades consignadas como “no identificadas” describen únicamente el alcance de las fuentes públicas revisadas; deberán contrastarse en una prueba directa del producto o con el proveedor.
 
-| Oportunidades | Amenazas |
-|---|---|
-| Actividad ambiental escolar existente; programas municipales y escolares que reportan evidencia; interés en IoT/IA aplicada; posibilidad de pilotos con campañas ya existentes. | Alternativas públicas gratuitas; plataformas globales maduras; ciclos de compra institucionales largos; regulación de datos/IA; abandono por carga del facilitador; claims ambientales difíciles de demostrar. |
+| Competidor o propuesta | Strengths | Weaknesses | Opportunities | Threats |
+|---|---|---|---|---|
+| **JouleBug** | Producto organizacional maduro; comunidades, participantes, acciones, desafíos y administración documentados. | Enfoque específico en escolares/familias y trazabilidad de datos simulados, IoT e IA no identificados en el alcance revisado. | Extender campañas corporativas, universitarias y comunitarias; aprovechar su catálogo de acciones. | Alternativas especializadas en ciencia ciudadana o programas locales; expectativas crecientes de verificación de claims. |
+| **GLOBE Observer** | Protocolos de observación, participación de escuelas/familias y alcance internacional; vínculo explícito con ciencia ciudadana. | Gestión comercial de campañas B2B2C, suscripción organizacional y seis dominios de hábitos no identificados como propósito central. | Nuevos protocolos, alianzas educativas y mayor reutilización de observaciones científicas. | Calidad desigual de observaciones voluntarias, carga de protocolo y soluciones especializadas por dominio. |
+| **Aula Ambiental / Eco Aventuras** | Pertinencia peruana, acceso público, recursos en español y respaldo institucional. | Panel SaaS, tenancy organizacional, evidencia longitudinal y contrato IoT no identificados en la información revisada. | Articular actividades con municipalidades, colegios y familias a escala nacional. | Restricciones presupuestarias o de continuidad pública; plataformas privadas con mayor personalización y soporte operativo. |
+| **EcoMind (propuesta)** | Modelo multidominio; separación entre acción, evidencia, observación e impacto; diseño offline; continuidad móvil-IoT; enfoque B2B2C y privacidad infantil. | Producto no implementado; segmentos y disposición de pago sin validar; alto alcance multiplataforma; ausencia de dataset y hardware calibrado; marca sin tracción demostrada. | Actividad ambiental escolar existente; programas municipales y escolares que reportan evidencia; pilotos con campañas existentes; IA explicable e IoT por etapas. | Alternativas gratuitas y plataformas maduras; compra institucional lenta; regulación de datos e IA; abandono por carga operativa; dificultad para demostrar impacto ambiental. |
+
+En el paisaje competitivo, EcoMind propone ocupar el cuadrante de alta gestión de programa y alto rigor de evidencia. Esa ubicación es una hipótesis estratégica: no será tratada como ventaja hasta que los responsables confirmen el dolor, los participantes comprendan la procedencia de los datos y un piloto produzca evidencia operativa.
 
 ### Estrategias y tácticas frente a competidores
 

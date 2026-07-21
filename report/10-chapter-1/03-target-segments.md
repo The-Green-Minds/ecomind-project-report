@@ -26,6 +26,8 @@ Incluye docentes, coordinadores ambientales escolares y promotores de programas 
 
 Incluye directores, coordinadores de innovación o sostenibilidad, responsables municipales, ONG y programas de responsabilidad social que deciden implementar, financiar o renovar una intervención. El mercado inicial se limita, como hipótesis, a organizaciones peruanas que ya ejecutan actividades ambientales con escolares de primaria y pueden realizar un piloto en Lima Metropolitana o de forma híbrida.
 
+El informe de evaluación institucional del Minam para 2024 registró que 516 gobiernos locales enviaron reportes y evidencias del Programa Municipal EDUCCA que fueron validados; correspondían al 27,3 % de gobiernos locales y 14 reportes adicionales a la meta de 530 fueron rechazados, entre otros motivos, por falta de evidencias [@minamPei2024]. El dato confirma un proceso nacional de reporte y validación de evidencia, pero no demuestra que las municipalidades necesiten EcoMind ni que dispongan de presupuesto para contratarlo. Sí justifica entrevistar este subsegmento sobre su flujo, carga operativa y criterios de aceptación.
+
 **Necesidades por validar.** Demostrar ejecución del programa; comparar campañas; controlar consentimiento y acceso; reducir el esfuerzo de consolidación; exportar información auditable; integrar contenido propio; y conocer el costo total de soporte, capacitación y futuros dispositivos.
 
 **Subsegmentación pendiente.** Una escuela privada, una municipalidad y una ONG poseen procesos de compra, incentivos y plazos diferentes. Las entrevistas de compradores determinarán cuál constituye el beachhead market. Hasta entonces no se publicarán precios ni se calculará TAM/SAM/SOM mezclando matrículas con contratos.

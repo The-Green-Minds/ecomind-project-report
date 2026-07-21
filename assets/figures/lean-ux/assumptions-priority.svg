@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">EcoMind assumptions priority matrix</title>
+  <desc id="desc">A two by two matrix positioning assumptions by known versus unknown and low versus high risk.</desc>
+  <defs>
+    <style>
+      .title { font: 700 32px Arial, sans-serif; fill: #174f3b; }
+      .axis { stroke: #174f3b; stroke-width: 4; }
+      .label { font: 700 22px Arial, sans-serif; fill: #174f3b; }
+      .card { fill: #ffffff; stroke: #87ad9c; stroke-width: 2; rx: 10; }
+      .text { font: 19px Arial, sans-serif; fill: #24332d; }
+      .q1 { fill: #f2f7f4; }
+      .q2 { fill: #fff3dd; }
+      .q3 { fill: #eef5f1; }
+      .q4 { fill: #ffe9e6; }
+    </style>
+  </defs>
+  <rect width="1200" height="820" fill="#ffffff"/>
+  <text x="600" y="52" text-anchor="middle" class="title">EcoMind - Assumptions Priority</text>
+  <rect x="120" y="90" width="470" height="310" class="q2"/>
+  <rect x="590" y="90" width="470" height="310" class="q4"/>
+  <rect x="120" y="400" width="470" height="310" class="q1"/>
+  <rect x="590" y="400" width="470" height="310" class="q3"/>
+  <line x1="590" y1="90" x2="590" y2="710" class="axis"/>
+  <line x1="120" y1="400" x2="1060" y2="400" class="axis"/>
+  <text x="355" y="760" text-anchor="middle" class="label">KNOWN / MORE EVIDENCE</text>
+  <text x="825" y="760" text-anchor="middle" class="label">UNKNOWN / LESS EVIDENCE</text>
+  <text x="58" y="245" transform="rotate(-90 58 245)" text-anchor="middle" class="label">HIGH RISK</text>
+  <text x="58" y="555" transform="rotate(-90 58 555)" text-anchor="middle" class="label">LOWER RISK</text>
+
+  <rect x="150" y="135" width="410" height="62" class="card"/><text x="170" y="174" class="text">A-T01 - Offline synchronization feasibility</text>
+  <rect x="150" y="215" width="410" height="62" class="card"/><text x="170" y="254" class="text">A-U01 - Short family challenges fit routines</text>
+
+  <rect x="620" y="120" width="410" height="62" class="card"/><text x="640" y="159" class="text">A-B01 - Recurrent evidence/reporting pain</text>
+  <rect x="620" y="196" width="410" height="62" class="card"/><text x="640" y="235" class="text">A-B02 - Buyer values traceability</text>
+  <rect x="620" y="272" width="410" height="62" class="card"/><text x="640" y="311" class="text">A-U02 - Facilitator has time and authority</text>
+  <rect x="620" y="348" width="410" height="42" class="card"/><text x="640" y="376" class="text">A-E01 - Families accept minimum data use</text>
+
+  <rect x="150" y="465" width="410" height="62" class="card"/><text x="170" y="504" class="text">A-T02 - Canonical contract spans domains</text>
+
+  <rect x="620" y="465" width="410" height="62" class="card"/><text x="640" y="504" class="text">A-P02 - Explained recommendations help</text>
+  <rect x="620" y="545" width="410" height="62" class="card"/><text x="640" y="584" class="text">A-E02 - Private progress motivates</text>
+  <rect x="620" y="625" width="410" height="62" class="card"/><text x="640" y="664" class="text">A-P01 - Evidence labels are understood</text>
+</svg>

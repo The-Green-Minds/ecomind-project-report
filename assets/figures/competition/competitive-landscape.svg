@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">EcoMind competitive landscape</title>
+  <desc id="desc">Competitive landscape positioning four alternatives by organizational program management and evidence or observation rigor.</desc>
+  <defs>
+    <style>
+      .title { font: 700 32px Arial, sans-serif; fill: #174f3b; }
+      .axis { stroke: #40564c; stroke-width: 4; marker-end: url(#arrow); }
+      .grid { stroke: #d6e2dc; stroke-width: 2; stroke-dasharray: 8 8; }
+      .label { font: 700 20px Arial, sans-serif; fill: #40564c; }
+      .point { stroke: #ffffff; stroke-width: 5; }
+      .name { font: 700 21px Arial, sans-serif; fill: #24332d; }
+      .note { font: 18px Arial, sans-serif; fill: #596b63; }
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#40564c"/></marker>
+  </defs>
+  <rect width="1200" height="820" fill="#ffffff"/>
+  <text x="600" y="52" text-anchor="middle" class="title">Competitive Landscape - EcoMind</text>
+  <line x1="130" y1="690" x2="1085" y2="690" class="axis"/>
+  <line x1="130" y1="690" x2="130" y2="100" class="axis"/>
+  <line x1="600" y1="130" x2="600" y2="690" class="grid"/>
+  <line x1="130" y1="395" x2="1055" y2="395" class="grid"/>
+  <text x="600" y="760" text-anchor="middle" class="label">Evidence and observation rigor →</text>
+  <text x="46" y="395" transform="rotate(-90 46 395)" text-anchor="middle" class="label">Organizational program management →</text>
+  <text x="130" y="722" class="note">Content / self-reported activity</text>
+  <text x="850" y="722" class="note">Traceable observations</text>
+  <text x="140" y="675" class="note">Individual or public activity</text>
+  <text x="140" y="125" class="note">Managed organizational program</text>
+
+  <circle cx="830" cy="210" r="32" fill="#178c5c" class="point"/>
+  <text x="875" y="205" class="name">EcoMind</text>
+  <text x="875" y="233" class="note">proposed position</text>
+
+  <circle cx="525" cy="255" r="28" fill="#2f75b5" class="point"/>
+  <text x="565" y="263" class="name">JouleBug</text>
+
+  <circle cx="865" cy="485" r="28" fill="#e6952f" class="point"/>
+  <text x="905" y="493" class="name">GLOBE Observer</text>
+
+  <circle cx="330" cy="570" r="28" fill="#9a64ad" class="point"/>
+  <text x="370" y="564" class="name">Aula Ambiental /</text>
+  <text x="370" y="591" class="name">Eco Aventuras</text>
+
+  <text x="600" y="805" text-anchor="middle" class="note">Inference based on public product information reviewed on 2026-07-20; not a measured market score.</text>
+</svg>
