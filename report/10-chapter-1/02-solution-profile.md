@@ -74,7 +74,7 @@ Este Problem Statement permanecerá provisional hasta contrastarlo con entrevist
 
 ##### Assumptions Worksheet - comprensión del uso
 
-| Pregunta del worksheet UPC | Respuesta provisional de Green Minds |
+| Pregunta | Respuesta provisional de Green Minds |
 |---|---|
 | **1. ¿Quién es el usuario?** | Escolares de 9 a 12 años y sus tutores como díada participante; facilitadores que acompañan y revisan; responsables que administran o financian programas. |
 | **2. ¿Dónde encaja el producto en su trabajo o vida?** | En campañas escolares, familiares o comunitarias: antes de la acción para orientar, durante la ejecución para registrar y después para revisar, retroalimentar y reportar. |
@@ -129,7 +129,7 @@ Las assumptions se priorizan por riesgo y desconocimiento. `Alta` significa que,
 
 Las hypotheses siguen la estructura: “Creemos que [hacer esto] para [estas personas] logrará [este outcome]. Sabremos que es cierto cuando observemos [feedback o cambio medible]”. Cada hypothesis conserva segmento, cambio, outcome y señal. Los umbrales son criterios provisionales de decisión, no resultados obtenidos.
 
-| ID | Hypothesis Statement en el formato UPC | Decisión si falla |
+| ID | Hypothesis Statement | Decisión si falla |
 |---|---|---|
 | H-F01 | **Creemos que** ofrecer un recorrido con responsabilidades diferenciadas para díadas adulto-escolar permitirá completar una acción con evidencia comprensible. **Sabremos que es cierto cuando** al menos 4 de 5 díadas terminen `perfil → reto → evidencia → progreso` en 10 minutos o menos, sin ayuda crítica, y expliquen quién confirma la evidencia. | Simplificar responsabilidades y revisar si adulto y escolar deben operar en momentos distintos. |
 | H-E01 | **Creemos que** mostrar fuente, calidad y explicación a familias y facilitadores permitirá interpretar correctamente la fuerza de una evidencia. **Sabremos que es cierto cuando** al menos 80 % de las respuestas clasifique correctamente cinco ejemplos y nadie presente un dato simulado como medido. | Rediseñar vocabulario, jerarquía visual y progreso antes de añadir IA o IoT. |
