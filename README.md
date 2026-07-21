@@ -12,6 +12,13 @@ Docs-as-Code repository for the UPC **CC238 - Applications for Mobile Devices** 
 
 The report is assembled from small Markdown files under `report/`, with numbered directories that preserve the normative order: front matter, Chapters I-IV, closing sections and annexes. Editable diagrams, evidence and bibliography remain versioned beside the text.
 
+## Current drafting status
+
+- Chapter I: startup, complete multidomain Solution Profile, Lean UX and three provisional B2B2C research segments drafted.
+- Chapter II: competitor analysis and interview protocol drafted.
+- Interviews and Needfinding artifacts: intentionally pending; no historical interview is presented as current evidence.
+- Source claims: tracked in `references/source-register.md` with limits and access date.
+
 ## Workflow
 
 - `main`: stable deliverables only
