@@ -1,0 +1,19 @@
+from: markdown
+file-scope: true
+input-files:
+  - report/00-front-matter/README.md
+  - report/10-chapter-1/README.md
+  - report/20-chapter-2/README.md
+  - report/30-chapter-3/README.md
+  - report/40-chapter-4/README.md
+  - report/90-closing/README.md
+  - report/99-annexes/README.md
+resource-path:
+  - .
+  - assets
+  - diagrams/generated
+toc: true
+toc-depth: 4
+number-sections: true
+pdf-engine: lualatex
+output-file: build/ecomind-project-report.pdf
