@@ -12,7 +12,7 @@ Esta sección conserva la estructura exigida para AV1, pero no convierte assumpt
 
 ### Impact Mapping
 
-**Herramienta obligatoria:** UXPressia. El artefacto deberá incluir goal medible, actors, impacts y deliverables; cada rama se enlazará con entrevistas y con las User Stories. Se incorporarán la URL editable y la exportación. **Estado:** pendiente de Needfinding.
+**Herramienta:** UXPressia. El artefacto deberá incluir goal medible, actors, impacts y deliverables; cada rama se enlazará con entrevistas y con las User Stories. Se incorporarán la URL editable y la exportación. **Estado:** pendiente de Needfinding.
 
 ### Product Backlog
 

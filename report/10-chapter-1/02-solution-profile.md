@@ -51,7 +51,7 @@ Esta formulación evita afirmar que una tecnología resolverá por sí sola el c
 
 #### Lean UX Problem Statements
 
-El enunciado exige que el Problem Statement haga explícitos el dominio, los customer segments, pain points, gap, visión o estrategia e initial segment. Estos elementos delimitan una sola problemática y no atribuyen una causa todavía no demostrada.
+El Problem Statement se organiza mediante dominio, customer segments, pain points, gap, visión o estrategia e initial segment. Estos elementos delimitan una sola problemática y no atribuyen una causa todavía no demostrada.
 
 | Elemento | Formulación de trabajo |
 |---|---|
@@ -85,7 +85,7 @@ Este Problem Statement permanecerá provisional hasta contrastarlo con entrevist
 
 ##### Assumptions Worksheet - modelo de negocio
 
-| N.° | Declaración exigida por el worksheet | Assumption de Green Minds |
+| N.° | Declaración base | Assumption de Green Minds |
 |---:|---|---|
 | 1 | Creo que mis clientes necesitan... | coordinar actividades ambientales y consolidar evidencia e informes con menor ambigüedad. |
 | 2 | Estas necesidades se pueden resolver con... | un ciclo compartido de campaña, acción, evidencia, revisión, observación y reporte. |
@@ -123,11 +123,11 @@ Las assumptions se priorizan por riesgo y desconocimiento. `Alta` significa que,
 
 ![Matriz de prioridad de assumptions de EcoMind](../../assets/figures/lean-ux/assumptions-priority.png)
 
-*Nota.* Elaboración propia basada en el esquema `Known / Unknown` y `High Risk / Low Risk` del review kit UPC de Lean & Hypothesis-Driven Development. Los cuadrantes expresan el conocimiento disponible al 20 de julio de 2026 y deben actualizarse después de Needfinding. Fuente editable: [`assumptions-priority.svg`](../../assets/figures/lean-ux/assumptions-priority.svg).
+*Nota.* Elaboración propia. La matriz utiliza los ejes `Known / Unknown` y `High Risk / Low Risk`. Los cuadrantes expresan el conocimiento disponible al 20 de julio de 2026 y deben actualizarse después de Needfinding. Fuente editable: [`assumptions-priority.svg`](../../assets/figures/lean-ux/assumptions-priority.svg).
 
 #### Lean UX Hypothesis Statements
 
-El review kit UPC propone la estructura: “Creemos que [hacer esto] para [estas personas] logrará [este outcome]. Sabremos que es cierto cuando observemos [feedback o cambio medible]”. Cada hipótesis siguiente conserva segmento, cambio, outcome y señal. Los umbrales son criterios provisionales de decisión, no resultados obtenidos.
+Las hypotheses siguen la estructura: “Creemos que [hacer esto] para [estas personas] logrará [este outcome]. Sabremos que es cierto cuando observemos [feedback o cambio medible]”. Cada hypothesis conserva segmento, cambio, outcome y señal. Los umbrales son criterios provisionales de decisión, no resultados obtenidos.
 
 | ID | Hypothesis Statement en el formato UPC | Decisión si falla |
 |---|---|---|
@@ -141,7 +141,7 @@ Una hipótesis longitudinal sobre cambio de comportamiento o impacto ambiental r
 
 #### Lean UX Canvas
 
-La Figura 2 utiliza la disposición visual de ocho bloques del Lean UX Canvas V2 presentada en el review kit UPC. El canvas resume una iteración de Problem/Solution Fit; no afirma que las hipótesis ya estén validadas.
+La Figura 2 organiza el Lean UX Canvas V2 en ocho bloques. El canvas resume una iteración de Problem/Solution Fit; no afirma que las hypotheses ya estén validadas.
 
 **Figura 2**
 
@@ -149,6 +149,6 @@ La Figura 2 utiliza la disposición visual de ocho bloques del Lean UX Canvas V2
 
 ![Lean UX Canvas V2 de EcoMind](../../assets/figures/lean-ux/lean-ux-canvas-v2.png)
 
-*Nota.* Elaboración propia con base en Lean UX Canvas V2 reproducido en el review kit UPC de Lean & Hypothesis-Driven Development, p. 11. Fecha: 20 de julio de 2026. Fuente editable: [`lean-ux-canvas-v2.svg`](../../assets/figures/lean-ux/lean-ux-canvas-v2.svg).
+*Nota.* Elaboración propia a partir de Lean UX Canvas V2. Iteración 1, con fecha 20 de julio de 2026. Fuente editable: [`lean-ux-canvas-v2.svg`](../../assets/figures/lean-ux/lean-ux-canvas-v2.svg).
 
 El aprendizaje prioritario es comprobar si la consolidación de participación, evidencia e informes constituye un problema recurrente y suficientemente importante para que una organización evalúe un piloto. El experimento mínimo combina entrevistas a tres responsables, walkthroughs con tres facilitadores, revisión de artefactos actuales y pruebas conceptuales con cinco díadas familiares.

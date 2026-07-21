@@ -37,7 +37,7 @@ La muestra es cualitativa. No se usarán porcentajes de once entrevistas como si
 
 #### Ficha de caracterización previa
 
-El enunciado solicita datos demográficos y subjetivos para contextualizar los hallazgos. La ficha siguiente se completa antes o al inicio de la sesión. Solo se publicarán datos autorizados y necesarios; los nombres completos, contactos y videos se conservarán en el medio privado aprobado por UPC. En menores no se solicitará estado civil, ocupación ni otros campos que no correspondan a su etapa de vida.
+La caracterización demográfica y subjetiva permitirá contextualizar los hallazgos. La ficha siguiente se completa antes o al inicio de la sesión. Solo se publicarán datos autorizados y necesarios; los nombres completos, contactos y videos se conservarán en el medio privado aprobado por UPC. En menores no se solicitará estado civil, ocupación ni otros campos que no correspondan a su etapa de vida.
 
 | Campo requerido | Díada familiar | Facilitador | Responsable de programa | Regla de registro |
 |---|---|---|---|---|

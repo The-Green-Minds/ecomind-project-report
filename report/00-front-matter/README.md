@@ -15,7 +15,7 @@
 | Fecha | Julio de 2026 - actualizar en cada entrega |
 | Logo oficial | Pendiente de incorporar con la plantilla autorizada |
 
-La versión final debe usar la carátula y el logo oficial exigidos por el enunciado. No se completarán NRC, docente o integrantes mediante inferencias.
+La versión final incorporará la carátula y el logo oficial. No se completarán NRC, docente o integrantes mediante inferencias.
 
 # Registro de Versiones del Informe {.unnumbered}
 
@@ -40,7 +40,7 @@ La tabla de contenidos se genera automáticamente desde los encabezados del info
 
 **Estado:** pendiente de transcripción desde el Anexo A vigente del Aula Virtual.
 
-Se completará una tabla por participante con criterio, acción verificable, evidencia y reflexión. No se inventan ponderaciones ni texto normativo porque la copia local del enunciado no contiene la rúbrica cuantitativa vigente.
+Se completará una tabla por participante con criterio, acción verificable, evidencia y reflexión. Las ponderaciones y el texto normativo permanecen pendientes de confirmación en el Aula Virtual.
 
 # Objetivos SMART {.unnumbered}
 

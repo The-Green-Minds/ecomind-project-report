@@ -6,15 +6,15 @@ Esta sección define el lugar y la herramienta exactos de los artefactos técnic
 
 #### C4 Context
 
-**Herramienta obligatoria:** Structurizr. Debe mostrar EcoMind, personas y sistemas externos con relaciones y responsabilidades. Se incorporarán workspace DSL, URL/exportación y leyenda. **Estado:** pendiente.
+**Herramienta:** Structurizr. Debe mostrar EcoMind, personas y sistemas externos con relaciones y responsabilidades. Se incorporarán workspace DSL, URL/exportación y leyenda. **Estado:** pendiente.
 
 #### C4 Container
 
-**Herramienta obligatoria:** Structurizr. Debe mostrar clientes Swift, Kotlin y Flutter sujetos a confirmación docente, aplicación web Vue, API NestJS, almacenamiento y sistemas externos. Las tecnologías no sustituyen responsabilidades. **Estado:** pendiente.
+**Herramienta:** Structurizr. Debe mostrar clientes Swift, Kotlin y Flutter sujetos a confirmación docente, aplicación web Vue, API NestJS, almacenamiento y sistemas externos. Las tecnologías no sustituyen responsabilidades. **Estado:** pendiente.
 
 #### C4 Deployment
 
-**Herramienta obligatoria:** Structurizr. Debe diferenciar entornos, nodos, contenedores desplegados, redes, secretos, observabilidad y dependencias externas. **Estado:** pendiente.
+**Herramienta:** Structurizr. Debe diferenciar entornos, nodos, contenedores desplegados, redes, secretos, observabilidad y dependencias externas. **Estado:** pendiente.
 
 ### Tactical DDD
 
@@ -36,16 +36,16 @@ Esta sección define el lugar y la herramienta exactos de los artefactos técnic
 
 #### C4 Component
 
-**Herramienta obligatoria:** Structurizr. Solo se elaborará para containers exigidos y deberá corresponder con las capas y el código. **Estado:** pendiente.
+**Herramienta:** Structurizr. Solo se elaborará para los containers relevantes y deberá corresponder con las capas y el código. **Estado:** pendiente.
 
 #### Class Diagrams
 
-**Herramienta obligatoria:** PlantUML. Los diagramas deberán representar decisiones de diseño relevantes, no inventarios automáticos de todas las clases. Se versionarán fuentes `.puml` y exportaciones. **Estado:** pendiente.
+**Herramienta:** PlantUML. Los diagramas deberán representar decisiones de diseño relevantes, no inventarios automáticos de todas las clases. Se versionarán fuentes `.puml` y exportaciones. **Estado:** pendiente.
 
 #### Database Design Diagram
 
-**Herramienta obligatoria:** Lucidchart. Debe incluir entidades, atributos relevantes, claves, cardinalidades, restricciones y límites de tenancy. Se incorporarán URL editable y exportación. **Estado:** pendiente.
+**Herramienta:** Lucidchart. Debe incluir entidades, atributos relevantes, claves, cardinalidades, restricciones y límites de tenancy. Se incorporarán URL editable y exportación. **Estado:** pendiente.
 
 ### External Service Integration Dossier
 
-El servicio externo obligatorio se seleccionará mediante una comparación documentada y no por conveniencia de una demo. Para cada opción se registrarán: **provider**, **endpoint**, ejemplos de **request** y **response**, **authentication**, **rate limit**, costo, licencia, cobertura peruana, **timeout**, reintento, circuito de **fallback**, **privacy**, retención, **provenance** y reglas para distinguir datos reales de datos **simulated**. **Estado:** proveedor no seleccionado.
+El servicio externo se seleccionará mediante una comparación documentada y no por conveniencia de una demo. Para cada opción se registrarán: **provider**, **endpoint**, ejemplos de **request** y **response**, **authentication**, **rate limit**, costo, licencia, cobertura peruana, **timeout**, reintento, circuito de **fallback**, **privacy**, retención, **provenance** y reglas para distinguir datos reales de datos **simulated**. **Estado:** proveedor no seleccionado.
