@@ -1,9 +1,3 @@
-# Chapter I - Presentation
+# Capítulo I: Presentación
 
-- 1.1 Startup Profile
-  - 1.1.1 Startup Description
-  - 1.1.2 Team Member Profiles
-- 1.2 Solution Profile
-  - 1.2.1 Background and Problem
-  - 1.2.2 Lean UX Process
-- 1.3 Target Segments
+Este capítulo presenta a Green Minds y define la versión inicial del Solution Profile de EcoMind. Las afirmaciones sobre usuarios, adopción y disposición de pago se mantienen como hipótesis hasta completar las entrevistas de Needfinding. En cambio, las cifras del sistema educativo, conectividad y programas ambientales se sustentan con fuentes oficiales identificadas en el registro de fuentes.

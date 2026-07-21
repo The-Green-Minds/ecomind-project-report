@@ -1,8 +1,3 @@
-# Chapter II - Requirements Development and Software Solution Design
+# Capítulo II: Requirements Development and Software Solution Design
 
-- Competitors and strategies
-- Interviews and analysis
-- Needfinding and Ubiquitous Language
-- Requirements Specification and Product Backlog
-- Strategic-Level DDD, EventStorming, Context Mapping and C4
-- Tactical-Level DDD, components, classes and database design
+Este capítulo transforma el Solution Profile en evidencia de usuarios, requisitos y diseño de software. La versión actual cubre el análisis competitivo y el protocolo de entrevistas. Los artefactos de Needfinding permanecen como plantillas hasta recopilar y analizar datos del equipo actual.
